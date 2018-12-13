@@ -36,3 +36,8 @@ export interface ConfMap {
     lng: number;
     center: boolean;
 }
+
+export interface User {
+    username: string;
+    favoriteSessions?: string[];
+}

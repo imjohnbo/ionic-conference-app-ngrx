@@ -12,7 +12,7 @@
         "tracks": ["Food"],
         "id": "1"
       }]
-    }, {
+  }, {
       "time": "9:15 am",
       "sessions": [{
         "name": "Getting Started with Ionic",
